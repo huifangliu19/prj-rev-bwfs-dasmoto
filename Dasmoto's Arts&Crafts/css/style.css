@@ -1,0 +1,19 @@
+h1 {
+     background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+     color: #ede86d;
+     font-size: 1000%;
+     font-family:  "Times New Roman", Times, serif;
+     text-align: left;
+}
+
+#brushes {
+  background-color: #c6ed6d;
+}
+
+#frames {
+  background-color: #ed6d73;
+}
+
+#paint {
+  background-color: #6dd9ed;
+}
